@@ -50,6 +50,7 @@ This is the shortest of three linked curricula, all built from the same verified
 | **7 Days of AI Security** (this repo) | A taste test. One week, zero prerequisites. |
 | [**30 Days of AI Security**](https://github.com/ppradyoth/30-days-of-ai-security) | A serious, time-boxed month to real competence. |
 | [**100 Days of AI Security**](https://github.com/ppradyoth/100-days-of-ai-security) | The full curriculum, foundations to capstone. |
+| [**AI Security Interview Questions**](https://github.com/ppradyoth/ai-security-interview-questions) | Prepping for an interview now, across 7 AI-security-adjacent roles. |
 
 ## Contributing
 
